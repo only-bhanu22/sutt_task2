@@ -1,0 +1,173 @@
+.fox{
+    margin-left: 50px;
+    margin-top: 100px;
+    display: inline-block;
+}
+.fox_1{
+    width: 200px;
+    height: 200px ;
+    background-color: #c33c3c;
+    clip-path: polygon(0 0, 37% 78%, 83% 46%);
+}
+.fox_2 {
+    width: 200px;
+    height: 200px;
+    background-color: #d35c1c;
+    clip-path: polygon(3% 0, 4% 95%, 55% 60%);
+    margin-top: -188px;
+}
+.fox_3{
+
+    width: 202px;
+    height: 200px;
+    background-color: #890219;
+    margin-top: -192px;
+    clip-path: polygon(35% 33%, 1% 93%, 54% 56%);
+}
+.fox_4 {
+    height: 225px;
+    width: 200px;
+    background-color: #c96e55;
+    margin-top: -128px;
+    clip-path: polygon(77% 0, 90% 0, 90% 100%, 0% 48%, 15% 38%);
+    margin-left: 12px;
+}
+.fox_5{
+    height: 225px;
+    width: 200px;
+    background-color: #ff1313e3;
+    margin: -107px 0px 0px 35px;
+    clip-path: polygon(15% 11%, 48% 53%, 78% 47%);
+}
+.fox_6 {
+    height: 225px;
+    width: 200px;
+    background-color: #ffb072;
+    margin: -239px 0px 0px -86px;
+    clip-path: polygon(46% 0%, 27% 46%, 78% 19%);
+}
+.fox_7{
+    height: 280px;
+    width: 202px;
+    background-color: #ffdca1;
+    margin: -236px 0px 0px -54px;
+    clip-path: polygon(60% 18%, 10% 41%, 97% 100%);
+
+}
+.fox_8{
+    height: 280px;
+    width: 202px;
+    background-color: #ff5f4a;
+    margin: -186px 0px 0px 65px;
+    clip-path: polygon(63% 13%, 33% 18%, 63% 48%);
+}
+.fox_9{
+    height: 328px;
+    width: 225px;
+    background-color: #ff9a75;
+    margin: -319px 0px 0px 63px;
+    clip-path: polygon(58% 53%, 2% 0%, 41% 80%);
+}
+.fox_10{
+    height: 328px;
+    width: 225px;
+    background-color: black;
+    margin: -255px 0px 0px 81px;
+    clip-path: polygon(50% 31%, 33% 57%, 49% 57%);
+}
+
+    .fox_11 {
+        height: 328px;
+        width: 225px;
+        background-color:red;
+        margin: -341px 0px 0px 81px;
+        clip-path: polygon(48% 73%, 35% 61%, 49% 61%);
+    }
+
+    .fox_12{
+        width: 200px;
+        height: 200px ;
+        background-color: #c33c3c;
+        clip-path: polygon(0 0, 37% 78%, 83% 46%);
+    }
+    .fox_13 {
+        width: 200px;
+        height: 200px;
+        background-color: #d35c1c;
+        clip-path: polygon(3% 0, 4% 95%, 55% 60%);
+        margin-top: -188px;
+    }
+    .fox_14{
+    
+        width: 202px;
+        height: 200px;
+        background-color: #890219;
+        margin-top: -192px;
+        clip-path: polygon(35% 33%, 1% 93%, 54% 56%);
+    }
+    .fox_15 {
+        height: 225px;
+        width: 200px;
+        background-color: #c77a64;
+        margin-top: -128px;
+        clip-path: polygon(77% 0, 90% 0, 90% 100%, 0% 48%, 15% 38%);
+        margin-left: 12px;
+    }
+    .fox_16{
+        height: 225px;
+        width: 200px;
+        background-color: #ff1313e3;
+        margin: -107px 0px 0px 35px;
+        clip-path: polygon(15% 11%, 48% 53%, 78% 47%);
+    }
+    .fox_17 {
+        height: 225px;
+        width: 200px;
+        background-color: #ffb072;
+        margin: -239px 0px 0px -86px;
+        clip-path: polygon(46% 0%, 27% 46%, 78% 19%);
+    }
+    .fox_18{
+        height: 280px;
+        width: 202px;
+        background-color: #ffdca1;
+        margin: -236px 0px 0px -54px;
+        clip-path: polygon(60% 18%, 10% 41%, 97% 100%);
+    
+    }
+    .fox_19{
+        height: 280px;
+        width: 202px;
+        background-color: #e23018;
+        margin: -186px 0px 0px 65px;
+        clip-path: polygon(63% 13%, 33% 18%, 63% 48%);
+    }
+    .fox_20{
+        height: 328px;
+        width: 225px;
+        background-color: #ff9a75;
+        margin: -319px 0px 0px 63px;
+        clip-path: polygon(58% 53%, 2% 0%, 41% 80%);
+    }
+    .fox_21{
+        height: 328px;
+        width: 225px;
+        background-color: black;
+        margin: -255px 0px 0px 81px;
+        clip-path: polygon(50% 31%, 33% 57%, 49% 57%);
+    }
+    
+        .fox_22 {
+            height: 328px;
+            width: 225px;
+            background-color: #e00000;
+            margin: -342px 0px 0px 81px;
+            clip-path: polygon(50% 73%, 35% 61%, 50% 61%);
+        
+        }
+      
+       .mirror{
+        margin: -627px 0px 0px 77px;
+       
+        transform: scaleX(-1);
+       }

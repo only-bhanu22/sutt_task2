@@ -1,0 +1,156 @@
+.bear{
+    margin: 0px 0px 0px 50px;
+    display: inline-block;
+
+}
+.bear_1{
+    height: 200px;
+    width: 222px;
+    background-color: #984a00;
+    margin: 0px 0px 0px 0px;
+    clip-path: polygon(37% 9%, 70% 48%, 100% 48%, 18% 100%, 0% 38%);
+
+}
+.bear_2{
+    height: 200px;
+    width: 221px;
+    background-color: #6f3300;
+    margin: -103px 0px 0px 0px;
+    clip-path: polygon(16% 50%, 100% 0%, 100% 76%, 15% 75%);
+}
+.bear_3{
+    height: 200px;
+    width: 200px;
+    background-color: #430000;
+    margin: -151px 0px 0px 22px;
+    clip-path: polygon(81% 50%, 18% 50%, 60% 76%);
+}
+.bear_4{
+    height: 250px;
+    width: 276px;
+    background-color: #f2ca65;
+    clip-path: polygon(46% 0, 60% 0%, 24% 54%, 7% 54%);
+    margin: -100px 0px 0px 56px;
+}
+.bear_5{
+    height: 200px;
+    width: 200px;
+    background-color: #ffef7e;
+    margin: -252px 0px 0px 122px;
+    clip-path: polygon(50% 0%, 0% 68%, 50% 68%);
+}
+.bear_6{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    clip-path: polygon(65% 0, 14% 0, 65% 41%);
+    margin: -63px 0px 0px 92px;
+}
+.bear_7{
+    height: 200px;
+    width: 203px;
+    background-color: #ffdf6c;
+    margin: -211px 0px 0px 19px;
+    clip-path: polygon(50% 5%, 100% 47%, 101% 98%, 65% 72%, 28% 5%);
+
+}
+.bear_8{
+    height: 200px;
+    width: 200px;
+    background-color: #6f3300;
+    margin: -324px 0px 0px -16px;
+    clip-path: polygon(25% 0%, 37% 0, 79% 26%, 46% 68%, 65% 100%, 9% 67%);
+}
+.bear_9{
+    height: 300px;
+    width: 300px;
+    margin: -209px 0px 0px -103px;
+    background-color: #984a00;
+    clip-path: polygon(46% 3%, 39% 51%, 85% 92%, 29% 55%);
+}
+
+    .bear_10 {
+        height: 200px;
+        width: 200px;
+        background-color: #984a00;
+        margin: -181px 0px 0px 0px;
+        clip-path: polygon(57% 45%, 0% 11%, 76% 80%);
+    }
+    .bear_11{
+        height: 200px;
+        width: 222px;
+        background-color: #984a00;
+        margin: 0px 0px 0px 0px;
+        clip-path: polygon(37% 9%, 70% 48%, 100% 48%, 18% 100%, 0% 38%);
+    
+    }
+    .bear_12{
+        height: 200px;
+        width: 221px;
+        background-color: #7d3a01;
+        margin: -103px 0px 0px 0px;
+        clip-path: polygon(16% 50%, 100% 0%, 100% 76%, 15% 75%);
+    }
+    .bear_13{
+        height: 200px;
+        width: 200px;
+        background-color: #430000;
+        margin: -151px 0px 0px 22px;
+        clip-path: polygon(81% 50%, 18% 50%, 60% 76%);
+    }
+    .bear_14{
+        height: 250px;
+        width: 276px;
+        background-color: #f2ca65;
+        clip-path: polygon(46% 0, 60% 0%, 24% 54%, 7% 54%);
+        margin: -100px 0px 0px 56px;
+    }
+    .bear_15{
+        height: 200px;
+        width: 200px;
+        background-color: #ffef7e;
+        margin: -252px 0px 0px 122px;
+        clip-path: polygon(50% 0%, 0% 68%, 50% 68%);
+    }
+    .bear_16{
+        height: 200px;
+        width: 200px;
+        background-color: black;
+        clip-path: polygon(65% 0, 14% 0, 65% 41%);
+        margin: -63px 0px 0px 92px;
+    }
+    .bear_17{
+        height: 200px;
+        width: 203px;
+        background-color: #ffdf6c;
+        margin: -211px 0px 0px 19px;
+        clip-path: polygon(50% 5%, 100% 47%, 101% 98%, 65% 72%, 28% 5%);
+    
+    }
+    .bear_18{
+        height: 200px;
+        width: 200px;
+        background-color: #7d3a01;
+        margin: -324px 0px 0px -16px;
+        clip-path: polygon(25% 0%, 37% 0, 79% 26%, 46% 68%, 65% 100%, 9% 67%);
+    }
+    .bear_19{
+        height: 300px;
+        width: 300px;
+        margin: -209px 0px 0px -103px;
+        background-color: #984a00;
+        clip-path: polygon(46% 3%, 39% 51%, 85% 92%, 29% 55%);
+    }
+    
+        .bear_20 {
+            height: 200px;
+            width: 200px;
+            background-color: #984a00;
+            margin: -181px 0px 0px 0px;
+            clip-path: polygon(57% 45%, 0% 11%, 76% 80%);
+        }
+        
+            .mirror_bear {
+                transform: scaleX(-1);
+                margin: -556px 0px 0px 109px;
+            }
